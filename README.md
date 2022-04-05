@@ -1,3 +1,7 @@
+## Todo
+1. clean up logo and about page
+2. display data on load without need to press 'fetch books'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
